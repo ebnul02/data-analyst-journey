@@ -1,4 +1,4 @@
-# 📊 Project 01 — Personal Finance Dashboard
+# Project 01 — Personal Finance Dashboard
 
 ## Overview
 A personal finance tracker built in Microsoft Excel to analyze 3 months of income and expenses (January–March 2026). The goal was to understand spending habits, calculate monthly savings, and visualize where money is going.
